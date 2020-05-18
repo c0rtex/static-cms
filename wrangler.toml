@@ -1,0 +1,10 @@
+name = "buffalo-traceroute"
+type = "webpack"
+account_id = "5fc72de787224b51dbd4fad4bd88d835"
+workers_dev = true
+# route = ""
+# zone_id = ""
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"
